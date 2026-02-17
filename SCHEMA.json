@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Samuel & Audrey — YouTube Transcripts (EN) Corpus (2012–2026)",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "caption_source": {
+      "type": [
+        "string"
+      ]
+    },
+    "caption_track_kind": {
+      "type": [
+        "string"
+      ]
+    },
+    "channel": {
+      "type": [
+        "string"
+      ]
+    },
+    "content_hash": {
+      "type": [
+        "string"
+      ]
+    },
+    "domain": {
+      "type": [
+        "string"
+      ]
+    },
+    "id": {
+      "type": [
+        "string"
+      ]
+    },
+    "lang": {
+      "type": [
+        "string"
+      ]
+    },
+    "original_filename": {
+      "type": [
+        "string"
+      ]
+    },
+    "published_at": {
+      "type": [
+        "string"
+      ]
+    },
+    "source": {
+      "type": [
+        "string"
+      ]
+    },
+    "srt": {
+      "type": [
+        "string"
+      ]
+    },
+    "tags": {
+      "type": [
+        "string"
+      ]
+    },
+    "tags_list": {
+      "type": [
+        "array"
+      ]
+    },
+    "text": {
+      "type": [
+        "string"
+      ]
+    },
+    "text_with_breaks": {
+      "type": [
+        "string"
+      ]
+    },
+    "title": {
+      "type": [
+        "string"
+      ]
+    },
+    "url": {
+      "type": [
+        "string"
+      ]
+    },
+    "video_date": {
+      "type": [
+        "string"
+      ]
+    },
+    "video_id": {
+      "type": [
+        "string"
+      ]
+    },
+    "view_count": {
+      "type": [
+        "integer"
+      ]
+    },
+    "youtube_title": {
+      "type": [
+        "string"
+      ]
+    }
+  }
+}
